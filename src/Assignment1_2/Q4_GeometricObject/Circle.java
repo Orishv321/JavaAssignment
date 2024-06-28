@@ -1,4 +1,4 @@
-package Assignemnt1_2.Q4_GeometricObject;
+package Assignment1_2.Q4_GeometricObject;
 public class Circle extends GeometricObject {
     private double radius;
 

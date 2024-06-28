@@ -1,4 +1,4 @@
-package Assignemnt1_2.Q1_Person_Student;
+package Assignment1_2.Q1_Person_Student;
 
 public class Faculty extends Employee{
     private String office_hours ;

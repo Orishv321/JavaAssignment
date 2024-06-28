@@ -1,4 +1,4 @@
-package Assignemnt1_2.Q3_Beauty;
+package Assignment1_2.Q3_Beauty;
 
 public class Customer {
     private String name;
